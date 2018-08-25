@@ -12,6 +12,9 @@ public class UseOfArrayList {
 
         for(Integer number:list) {
             System.out.println(number);
+            System.out.println("hello");
         }
     }
 }
+
+
