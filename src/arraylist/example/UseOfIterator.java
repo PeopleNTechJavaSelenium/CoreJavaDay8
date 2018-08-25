@@ -10,6 +10,7 @@ public class UseOfIterator {
         list.add(10);
         list.add(15);
         list.add(25);
+        System.out.println("I succesfully enhanced my code");
 
         Iterator it = list.iterator();
         while(it.hasNext()){
