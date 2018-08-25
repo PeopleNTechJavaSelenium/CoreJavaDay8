@@ -1,0 +1,20 @@
+08-25-18 class notes
+
+finalize():  to destroy object; called by garbage collector.
+Singleton:
+
+Make constructor private
+Singleton patter helps to keep only one instance os a class at a time.
+
+String API:
+
+Iterator
+
+For each loop
+
+ArrayList
+
+Git Branch
+
+
+
